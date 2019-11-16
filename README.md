@@ -5,4 +5,4 @@ Taller de Diseño de Sistemas 1er cuatrimestre 2019
 
 [2º Entrega](https://docs.google.com/document/d/1v2HtLoI3TsSqqo8q0clzt03aR-2CGg7J/edit)
 
-[Excel para seguir los wireframes](https://docs.google.com/spreadsheets/d/1cgakXYAl-i0iM57cI8TdH9DEAzsvsBoTdDq4L12Ycf4/edit#gid=0)
+[Excel para seguir los wireframes 2.0 (con eventos)](https://docs.google.com/spreadsheets/d/1cgakXYAl-i0iM57cI8TdH9DEAzsvsBoTdDq4L12Ycf4/edit#gid=0)
